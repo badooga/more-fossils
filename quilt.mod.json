@@ -1,0 +1,36 @@
+{
+    "schema_version": 1,
+    "quilt_loader": {
+        "group": "com.modrinth",
+        "id": "more_fossils_mr",
+        "version": "2.0.1",
+        "metadata": {
+            "name": "More Fossils",
+            "description": "Lets fossils generate in any Overworld biome.",
+            "contributors": {
+                "badooga": "Owner"
+            },
+            "contact": {
+                "homepage": "https://modrinth.com/datapack/more-fossils"
+            },
+            "icon": "pack.png"
+        },
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "depends": [
+            {
+                "id": "quilt_resource_loader",
+                "versions": "*",
+                "unless": "fabric-resource-loader-v0"
+            },
+            {
+                "id": "minecraft",
+                "versions": ">=1.19"
+            }
+        ],
+        "entrypoints": {
+            "main": [
+                "com.badooga.more_fossils.MoreFossils"
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 1,
+    "id": "more_fossils",
+    "version": "2.0.1",
+    "name": "More Fossils",
+    "description": "Lets fossils generate in any Overworld biome.",
+    "authors": [
+        "badooga"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/datapack/more-fossils"
+    },
+    "license": "CC-BY-NC-4.0",
+    "icon": "pack.png",
+    "environment": "*",
+    "depends": {
+        "fabric-resource-loader-v0": "*",
+        "minecraft": ">=1.19"
+    },
+    "entrypoints": {
+        "main": [
+            "com.badooga.more_fossils.MoreFossils"
+        ]
+    }
+}
