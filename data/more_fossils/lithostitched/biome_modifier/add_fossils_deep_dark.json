@@ -1,5 +1,5 @@
 {
-  "type": "biome_modifier:add_features",
+  "type": "lithostitched:add_features",
   "biomes": "#more_fossils:fossil_deep_dark",
   "features": "more_fossils:fossil_deep_dark",
   "step": "underground_structures"

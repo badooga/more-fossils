@@ -15,11 +15,7 @@
     "environment": "*",
     "depends": {
         "fabric-resource-loader-v0": "*",
-        "minecraft": ">=1.19"
-    },
-    "entrypoints": {
-        "main": [
-            "com.badooga.more_fossils.MoreFossils"
-        ]
+        "minecraft": ">=1.20",
+        "lithostitched": "*"
     }
 }

@@ -24,13 +24,12 @@
             },
             {
                 "id": "minecraft",
-                "versions": ">=1.19"
+                "versions": ">=1.20"
+            },
+            {
+                "id": "lithostitched",
+                "versions": "*"
             }
-        ],
-        "entrypoints": {
-            "main": [
-                "com.badooga.more_fossils.MoreFossils"
-            ]
-        }
+        ]
     }
 }
