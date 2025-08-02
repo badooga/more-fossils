@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "more_fossils",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "name": "More Fossils",
     "description": "Lets fossils generate in any Overworld biome.",
     "authors": [

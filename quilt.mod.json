@@ -3,7 +3,7 @@
     "quilt_loader": {
         "group": "com.modrinth",
         "id": "more_fossils_mr",
-        "version": "3.0.0",
+        "version": "3.0.1",
         "metadata": {
             "name": "More Fossils",
             "description": "Lets fossils generate in any Overworld biome.",
