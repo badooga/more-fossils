@@ -1,7 +1,10 @@
 {
     "pack": {
-        "pack_format": 10,
-        "description": "More Fossils - badooga (v3.0.0)",
-        "supported_formats": [10, 71]
+        "description": "More Fossils - badooga (v3.0.1+26.1.2)",
+        "max_format": 101,
+        "min_format": [
+            101,
+            1
+        ]
     }
 }
