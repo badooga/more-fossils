@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#more_fossils:fossil_overworld",
+  "features": "#more_fossils:fossil_overworld",
+  "step": "underground_structures"
+}
